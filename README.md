@@ -1,0 +1,1 @@
+# A-Spatial-Point-Process-Analysis-of-Lightning-Across-Ireland
